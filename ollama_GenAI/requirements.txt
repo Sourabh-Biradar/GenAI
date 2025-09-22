@@ -1,0 +1,12 @@
+python-dotenv
+
+langchain
+langchain_community
+
+ipykernel
+
+streamlit
+watchdog
+
+faiss-cpu
+
